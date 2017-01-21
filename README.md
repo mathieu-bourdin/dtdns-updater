@@ -1,6 +1,6 @@
 # dtdns-updater
 
-This shell script to notifies DtDNS service of IP updates.
+This shell script notifies DtDNS service of IP updates.
 
 Very easy to use, in-script™ configuration has two entries:
 
